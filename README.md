@@ -14,8 +14,8 @@ npm run coverage
 
  Test Files  1 passed (1)
       Tests  2 passed (2)
-   Start at  08:05:26
-   Duration  225ms (transform 34ms, setup 0ms, import 44ms, tests 2ms, environment 0ms)
+   Start at  09:37:22
+   Duration  222ms (transform 29ms, setup 0ms, import 39ms, tests 2ms, environment 0ms)
 
  % Coverage report from v8
 ---------------|---------|----------|---------|---------|-------------------
